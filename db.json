@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "22d8",
+      "title": "123213",
+      "body": "123213"
+    },
+    {
+      "id": "ccbc",
+      "title": "12321",
+      "body": "12321"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "comment comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "sirok"
+  }
+}
